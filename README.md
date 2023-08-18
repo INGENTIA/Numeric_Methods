@@ -25,6 +25,7 @@ Currently, this repository includes examples of the following numerical methods,
 - [Newton-Raphson Method](newton_raphson/)
 - [Euler's Method](eulers_method/)
 - [Simpson's Rule](simpsons_rule/)
+- [Runge-Kutta Method](runge_kutta/)
 
 Each method is implemented in multiple programming languages for educational purposes.
 
